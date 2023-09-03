@@ -1,8 +1,10 @@
-# React + Vite
+# Simple Social Media Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple social media project inspired by Facebook, built with **React**, **Tailwind CSS**, **React Router**, and **Material-UI (MUI)**.
 
-Currently, two official plugins are available:
+**Images**:
+![alt text](https://github.com/mmdbzr/mySocialMedia/blob/master/src/assets/Screenshot%202023-08-27%20122719.png?raw=true)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![alt text](https://github.com/mmdbzr/mySocialMedia/blob/master/src/assets/Screenshot%202023-08-27%20122808.png?raw=true)
+
+![alt text](https://github.com/mmdbzr/mySocialMedia/blob/master/src/assets/Screenshot%202023-08-27%20123000.png?raw=true)
