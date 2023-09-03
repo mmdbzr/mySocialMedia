@@ -8,3 +8,12 @@ A simple social media project inspired by Facebook, built with **React**, **Tail
 ![alt text](https://github.com/mmdbzr/mySocialMedia/blob/master/src/assets/Screenshot%202023-08-27%20122808.png?raw=true)
 
 ![alt text](https://github.com/mmdbzr/mySocialMedia/blob/master/src/assets/Screenshot%202023-08-27%20123000.png?raw=true)
+
+
+## Getting Started
+
+To get started with this project:
+
+1. Clone the repository to your local machine:
+
+  git clone https://github.com/mmdbzr/mySocialMedia.git
